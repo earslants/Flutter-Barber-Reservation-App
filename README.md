@@ -1,16 +1,13 @@
-# kuaforv1
+# Barber Reservation App
 
-A new Flutter project.
+Create Reservation
+Users can create reservation at barber shop that they want. Than, can do cancel the reservation if they want.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features of this app
+Filter page
+Add favorite any barber shop
+Favorite screen display your favorite barber shops
+Create reservation
+Barbers can add their barber shop to database.
+Automatically creates sessions between opening and closing times.
+Barbers can display reservations on reservations screen. Than, can create a reservation for user that they want.
