@@ -4,6 +4,7 @@ Barber Reservation App
 Users can create reservation at barber shop that they want. Than, can do cancel the reservation if they want.
 
 ### Features of this app
+
 - Filter page
 - Add favorite any barber shop
 - Favorite screen display your favorite barber shops
